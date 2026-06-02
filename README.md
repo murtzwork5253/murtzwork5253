@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+# Hey there, I'm Murtaza! 👋<br><br>I'm a software developer based in Surat, India, focused on building clean web interfaces and cross-platform mobile apps that don't break when they hit production. <br><br>Right now, I am working at Matrix Software Solutions while pursuing my MCA at Jain University. I spend my days writing React and Flutter code, integrating real-time backends, and making sure everything is thoroughly tested before it reaches real users.<br><br>### 🛠️ What I Do<br>* **Frontend Web:** Building responsive, fast interfaces with React JS and Vite, usually hooked up to REST APIs.<br>* **Mobile Development:** Shipping iOS and Android apps from a single codebase using Flutter and Dart. <br>* **The Backend Side:** I love working with Supabase for real-time data sync, authentication flows, and file pipelines, along with PHP and MySQL.<br>* **QA Mindset:** I don't just throw code over the wall. I write test cases, handle bug triage, and naturally run feature QA on everything I build to catch regressions early.<br><br>### 🚀 Some Things I've Built<br>* **Social Media Features:** Built a full-featured Instagram clone using Flutter, Dart, and Supabase, utilizing real-time subscriptions for live feeds and optimized paginated queries.<br>* **Native Android Tools:** Developed a native Kotlin College Management System featuring multi-factor authentication, role-based access control, and bulk-action student workflows.<br><br>### 🧰 Tech Stack & Tools<br>* **Languages & Frameworks:** JavaScript, React JS, Flutter, Dart, Kotlin, Java, PHP<br>* **Database & Backend:** Supabase, MySQL, REST APIs<br>* **Testing & Tools:** Selenium, Postman, Git, Figma, VS Code, Android Studio<br><br>---<br><br>📫 **Let's Connect!**<br>* **Email:** murtazaworkspace@gmail.com<br>* **LinkedIn:** [linkedin.com/in/murtaza-lakdawala](https://linkedin.com/in/murtaza-lakdawala)
 
-<!--
-**murtzwork5253/murtzwork5253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/murtz._.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/murtaza-lakdawala) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:murtazaworkspace@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=murtzwork5253&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=murtzwork5253&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=murtzwork5253&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=murtzwork5253&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=murtzwork5253&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
