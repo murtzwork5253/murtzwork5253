@@ -1,6 +1,35 @@
-# 💫 About Me:
-# Hey there, I'm Murtaza! 👋<br><br>I'm a software developer based in Surat, India, focused on building clean web interfaces and cross-platform mobile apps that don't break when they hit production. <br><br>Right now, I am working at Matrix Software Solutions while pursuing my MCA at Jain University. I spend my days writing React and Flutter code, integrating real-time backends, and making sure everything is thoroughly tested before it reaches real users.<br><br>### 🛠️ What I Do<br>* **Frontend Web:** Building responsive, fast interfaces with React JS and Vite, usually hooked up to REST APIs.<br>* **Mobile Development:** Shipping iOS and Android apps from a single codebase using Flutter and Dart. <br>* **The Backend Side:** I love working with Supabase for real-time data sync, authentication flows, and file pipelines, along with PHP and MySQL.<br>* **QA Mindset:** I don't just throw code over the wall. I write test cases, handle bug triage, and naturally run feature QA on everything I build to catch regressions early.<br><br>### 🚀 Some Things I've Built<br>* **Social Media Features:** Built a full-featured Instagram clone using Flutter, Dart, and Supabase, utilizing real-time subscriptions for live feeds and optimized paginated queries.<br>* **Native Android Tools:** Developed a native Kotlin College Management System featuring multi-factor authentication, role-based access control, and bulk-action student workflows.<br><br>### 🧰 Tech Stack & Tools<br>* **Languages & Frameworks:** JavaScript, React JS, Flutter, Dart, Kotlin, Java, PHP<br>* **Database & Backend:** Supabase, MySQL, REST APIs<br>* **Testing & Tools:** Selenium, Postman, Git, Figma, VS Code, Android Studio<br><br>---<br><br>📫 **Let's Connect!**<br>* **Email:** murtazaworkspace@gmail.com<br>* **LinkedIn:** [linkedin.com/in/murtaza-lakdawala](https://linkedin.com/in/murtaza-lakdawala)
+# 💫 About Me
 
+Hey there, I'm Murtaza! 👋
+
+I'm a software developer based in Surat, India, focused on building clean web interfaces and cross-platform mobile apps that don't break when they hit production.
+
+Right now, I'm working at Matrix Software Solutions while pursuing my MCA at Jain University. I spend my days writing React and Flutter code, integrating real-time backends, and making sure everything is thoroughly tested before it reaches real users.
+
+## 🛠️ What I Do
+
+- **Frontend Web:** Building responsive, fast interfaces with React JS and Vite, usually hooked up to REST APIs.
+- **Mobile Development:** Shipping iOS and Android apps from a single codebase using Flutter and Dart.
+- **The Backend Side:** I love working with Supabase for real-time data sync, authentication flows, and file pipelines, along with PHP and MySQL.
+- **QA Mindset:** I don't just throw code over the wall — I write test cases, handle bug triage, and run feature QA on everything I build to catch regressions early.
+
+## 🚀 Some Things I've Built
+
+- **Social Media Features:** Built a full-featured Instagram clone using Flutter, Dart, and Supabase, utilizing real-time subscriptions for live feeds and optimized paginated queries.
+- **Native Android Tools:** Developed a native Kotlin College Management System featuring multi-factor authentication, role-based access control, and bulk-action student workflows.
+
+## 🧰 Tech Stack & Tools
+
+- **Languages & Frameworks:** JavaScript, React JS, Flutter, Dart, Kotlin, Java, PHP
+- **Database & Backend:** Supabase, MySQL, REST APIs
+- **Testing & Tools:** Selenium, Postman, Git, Figma, VS Code, Android Studio
+
+---
+
+## 📫 Let's Connect!
+
+- **Email:** murtazaworkspace@gmail.com
+- **LinkedIn:** [linkedin.com/in/murtaza-lakdawala](https://linkedin.com/in/murtaza-lakdawala)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/murtz._.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/murtaza-lakdawala) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:murtazaworkspace@gmail.com) 
