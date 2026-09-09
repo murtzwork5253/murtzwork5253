@@ -41,8 +41,5 @@ Right now, I'm working at Matrix Software Solutions while pursuing my MCA at Jai
 ![](https://streak-stats.demolab.com/?user=murtzwork5253&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=murtzwork5253&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=murtzwork5253&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
